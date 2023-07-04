@@ -16,9 +16,9 @@ Identify gaps (in knowledge, in market offerings, in a range of ideas, etc.) tha
 <br><br/>
 
 ## Example
-From _The Minimalist Entrepreneur_:
+From _The Minimalist Entrepreneur_...
 
-To brainstorm 
+To brainstorm problems within one's community that can potentially turn into a business:
 - Grab a pen and paper
 - Create 3 columns:
 	- Person - the person/community you would like to help.
