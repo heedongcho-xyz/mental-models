@@ -2,7 +2,6 @@
 An open-source version of Minerva's HCs (Habits of Mind and Foundational Concepts)
 <br><br/>
 
-# Progress
 ## I. Thinking critically
 ### A. Evaluating Claims
 - [ ] Identify and analyze premises and conclusions. #assertions
