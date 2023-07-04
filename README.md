@@ -3,7 +3,6 @@ An open-source version of Minerva's HCs (Habits of Mind and Foundational Concept
 <br><br/>
 
 # Progress
-
 ## I. Thinking critically
 ### A. Evaluating Claims
 - [ ] Identify and analyze premises and conclusions. #assertions
@@ -89,7 +88,6 @@ An open-source version of Minerva's HCs (Habits of Mind and Foundational Concept
 
 - [ ] Identify primary, secondary, and further effects in networks, including social networks. #networks
 
-
 ### C. Weighing decisions
 - [ ] Identify and evaluate underlying goals and the values on which they are based, as well as the guiding principles that determine how an individual or group will try to attain these goals. #purpose
 
@@ -123,6 +121,7 @@ An open-source version of Minerva's HCs (Habits of Mind and Foundational Concept
 - [ ] Identify and analyze variables and parameters of a problem. #variables
 
 - [ ] Apply and evaluate game-theoretic models. #gametheory
+<br><br/>
 
 ## II. Thinking creatively
 ### A. Facilitating discovery
