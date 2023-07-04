@@ -6,237 +6,237 @@ An open-source version of Minerva's HCs (Habits of Mind and Foundational Concept
 
 ## I. Thinking critically
 ### A. Evaluating Claims
-(H) Identify and analyze premises and conclusions. #assertions
+- [ ] Identify and analyze premises and conclusions. #assertions
 
-(H) Actively and critically engage with texts and other forms of communication. #critique
+- [ ] Actively and critically engage with texts and other forms of communication. #critique
 
-(H) Define what information is needed to support an argument. #infoneeded
+- [ ] Define what information is needed to support an argument. #infoneeded
 
-(H) Distinguish between categories and types of information to determine source quality. #sourcequality
+- [ ] Distinguish between categories and types of information to determine source quality. #sourcequality
 
-(H) Use estimation techniques to determine whether quantitative claims are plausible. #estimation
+- [ ] Use estimation techniques to determine whether quantitative claims are plausible. #estimation
 
-(H) Evaluate whether hypotheses are based on plausible premises or assumptions. #plausibility
+- [ ] Evaluate whether hypotheses are based on plausible premises or assumptions. #plausibility
 
-(H) Evaluate whether hypotheses lead to testable predictions. #testability
+- [ ] Evaluate whether hypotheses lead to testable predictions. #testability
 
-(C) Identify and analyze pseudoscientific claims. #pseudoscience
+- [ ] Identify and analyze pseudoscientific claims. #pseudoscience
 
-(C) Distinguish among scientific hypotheses, theories, facts and laws. #epistemology
+- [ ] Distinguish among scientific hypotheses, theories, facts and laws. #epistemology
 
-(C) Evaluate applications of the scientific method. #scibreakdown
+- [ ] Evaluate applications of the scientific method. #scibreakdown
 
-(C) Apply and interpret fundamental concepts of probability. #probability
+- [ ] Apply and interpret fundamental concepts of probability. #probability
 
-(C) Apply and interpret conditional probabilities. #conditionalprob
+- [ ] Apply and interpret conditional probabilities. #conditionalprob
 
-(C) Recognize and analyze sampling from different types of distributions. #sampling
+- [ ] Recognize and analyze sampling from different types of distributions. #sampling
 
-(H) Use descriptive statistics appropriately. #descriptivestats
+- [ ] Use descriptive statistics appropriately. #descriptivestats
 
-(C) Apply and interpret effect size. #effectsize
+- [ ] Apply and interpret effect size. #effectsize
 
-(C) Apply and interpret confidence intervals. #confidenceintervals
+- [ ] Apply and interpret confidence intervals. #confidenceintervals
 
-(C) Apply and interpret measures of correlation; distinguish correlation and causation. #correlation
+- [ ] Apply and interpret measures of correlation; distinguish correlation and causation. #correlation
 
-(C) Apply and interpret regression. #regression
+- [ ] Apply and interpret regression. #regression
 
-(C) Recognize when regression to the mean is operating and adjust predictions to take this into account. #regresstomean
+- [ ] Recognize when regression to the mean is operating and adjust predictions to take this into account. #regresstomean
 
-(C) Apply and interpret Bayesian statistics for inference and estimation. #bayes
+- [ ] Apply and interpret Bayesian statistics for inference and estimation. #bayes
 
-Apply and interpret statistical significance. #significance
+- [ ] Apply and interpret statistical significance. #significance
 
 ## B. Analyzing inferences
-(C) Apply and interpret formal deductive logic. #deduction
+- [ ] Apply and interpret formal deductive logic. #deduction
 
-(C) Identify and correct logical fallacies. #fallacies
+- [ ] Identify and correct logical fallacies. #fallacies
 
-(C) Formulate multiple plausible generalizations from available evidence #induction
+- [ ] Formulate multiple plausible generalizations from available evidence #induction
 
-(H) Make predictions about short-term versus long-term behaviors #prediction
+- [ ] Make predictions about short-term versus long-term behaviors #prediction
 
-(C) Identify attentional and perceptual biases that affect what we notice and how we recognize and estimate properties of patterns, and react accordingly. #attentionperceptionbiases
+- [ ] Identify attentional and perceptual biases that affect what we notice and how we recognize and estimate properties of patterns, and react accordingly. #attentionperceptionbiases
 
-(C) Identify biases that affect the limits and fallibility of memory, and react accordingly. #memorybias
+- [ ] Identify biases that affect the limits and fallibility of memory, and react accordingly. #memorybias
 
-(C) Identify and minimize bias that results from searching for or interpreting information to confirm preconceptions. #confirmationbias
+- [ ] Identify and minimize bias that results from searching for or interpreting information to confirm preconceptions. #confirmationbias
 
-(C) Identify biases that affect inferences drawn from different forms of communication, and react accordingly. #interpretivebias
+- [ ] Identify biases that affect inferences drawn from different forms of communication, and react accordingly. #interpretivebias
 
-(C) Situate a work in its relevant context (eg., historical, disciplinary, cultural). #context
+- [ ] Situate a work in its relevant context (eg., historical, disciplinary, cultural). #context
 
-(C) Identify, analyze, and organize characteristics to infer or craft possible meanings of a nonfiction work. #nonfiction
+- [ ] Identify, analyze, and organize characteristics to infer or craft possible meanings of a nonfiction work. #nonfiction
 
-(C) Identify, analyze, and organize characteristics to infer possible meanings of fiction or poetry. #fictionpoetry
+- [ ] Identify, analyze, and organize characteristics to infer possible meanings of fiction or poetry. #fictionpoetry
 
-(C) Identify, analyze, and organize characteristics and use them to infer meanings of visual communications. #visualart
+- [ ] Identify, analyze, and organize characteristics and use them to infer meanings of visual communications. #visualart
 
-(C) Identify, analyze, and organize characteristics and use them to infer meanings of auditory communications. #music
+- [ ] Identify, analyze, and organize characteristics and use them to infer meanings of auditory communications. #music
 
-(C) Identify, analyze, and organize characteristics to infer possible meanings in a multimedia work. #multimedia
+- [ ] Identify, analyze, and organize characteristics to infer possible meanings in a multimedia work. #multimedia
 
-(H) Describe interactions among events or characteristics at different levels of analysis to generate interpretations of phenomena. #levelsofanalysis
+- [ ] Describe interactions among events or characteristics at different levels of analysis to generate interpretations of phenomena. #levelsofanalysis
 
-(C) Apply and interpret decompositions of complex systems into constituent parts. #multipleagents
+- [ ] Apply and interpret decompositions of complex systems into constituent parts. #multipleagents
 
-(C) Recognize the role of attractors and sensitivity to varying conditions in the behavior of complex systems. #systemdynamics
+- [ ] Recognize the role of attractors and sensitivity to varying conditions in the behavior of complex systems. #systemdynamics
 
-(C) Identify emergent properties of complex systems and react accordingly.  #emergentproperties 
+- [ ] Identify emergent properties of complex systems and react accordingly.  #emergentproperties 
 
-(C) Identify ways that multiple causes interact to produce complex effects. #multiplecauses 
+- [ ] Identify ways that multiple causes interact to produce complex effects. #multiplecauses 
 
-(C) Identify primary, secondary, and further effects in networks, including social networks. #networks
+- [ ] Identify primary, secondary, and further effects in networks, including social networks. #networks
 
 
 ### C. Weighing decisions
-(H) Identify and evaluate underlying goals and the values on which they are based, as well as the guiding principles that determine how an individual or group will try to attain these goals. #purpose
+- [ ] Identify and evaluate underlying goals and the values on which they are based, as well as the guiding principles that determine how an individual or group will try to attain these goals. #purpose
 
-(H) Recognize and evaluate foundational commitments. #firstprinciples
+- [ ] Recognize and evaluate foundational commitments. #firstprinciples
 
-(H) Consider different types of future costs and benefits for all stakeholders #utility
+- [ ] Consider different types of future costs and benefits for all stakeholders #utility
 
-(H) Identify ways that incentives affect decisions. #payoffs
+- [ ] Identify ways that incentives affect decisions. #payoffs
 
-(H) Identify and analyze the effects of sunk costs in decision making. #sunkcost
+- [ ] Identify and analyze the effects of sunk costs in decision making. #sunkcost
 
-(H) Identify and analyze the effects of temporal discounting in decision making. #discounting
+- [ ] Identify and analyze the effects of temporal discounting in decision making. #discounting
 
-(C) Identify and analyze the effects of risk versus uncertainty. (C) #risk
+- [ ] Identify and analyze the effects of risk versus uncertainty. #risk
 
-(H) Consider multiple choices simultaneously when making decisions. #broadframing 
+- [ ] Consider multiple choices simultaneously when making decisions. #broadframing 
 
-(H) Apply and interpret decision trees to explore the consequences of alternative choices. #decisiontrees 
+- [ ] Apply and interpret decision trees to explore the consequences of alternative choices. #decisiontrees 
 
-(H) Apply heuristics to make and implement decisions efficiently.  #efficientheuristics 
+- [ ] Apply heuristics to make and implement decisions efficiently.  #efficientheuristics 
 
-Identify decision biases that arise from emotional states. (C) #emotionalbias
+- [ ] Identify decision biases that arise from emotional states. #emotionalbias
 
 ### D. Analyzing problems
-Identify gaps (in knowledge, in market offerings, in a range of ideas, etc.) that reveal where a creative solution is required. (C) #gapanalysis
+- [x] Identify gaps (in knowledge, in market offerings, in a range of ideas, etc.) that reveal where a creative solution is required. #gapanalysis
 
-Characterize the nature of the problem. (H) #rightproblem 
+- [ ] Characterize the nature of the problem. #rightproblem 
 
-Organize problems into tractable components and design solutions. (H)  #breakitdown 
+- [ ] Organize problems into tractable components and design solutions.  #breakitdown 
 
-Identify and analyze variables and parameters of a problem. (H) #variables
+- [ ] Identify and analyze variables and parameters of a problem. #variables
 
-Apply and evaluate game-theoretic models. (C) #gametheory
+- [ ] Apply and evaluate game-theoretic models. #gametheory
 
 ## II. Thinking creatively
 ### A. Facilitating discovery
-Evaluate the link between initial data collection and subsequent hypothesis-driven research. (C) #hypothesisdriven
+- [ ] Evaluate the link between initial data collection and subsequent hypothesis-driven research. #hypothesisdriven
 
-Evaluate the link between theories and the design of studies. (C) #theorytesting 
+- [ ] Evaluate the link between theories and the design of studies. #theorytesting 
 
-Recognize how models can be used to explain a set of data and generate new predictions. (C) #modeltypes 
+- [ ] Recognize how models can be used to explain a set of data and generate new predictions. #modeltypes 
 
-Interpret, analyze, and create data visualizations. (C) #dataviz 
+- [ ] Interpret, analyze, and create data visualizations. #dataviz 
 
-Apply and interpret principles of experimental design. (C)  #experimentaldesign 
+- [ ] Apply and interpret principles of experimental design. #experimentaldesign 
 
-Design and interpret observational studies. (C) #observation 
+- [ ] Design and interpret observational studies. #observation 
 
-Design and interpret primary research performed as interviews or surveys (individually or in groups). (C) #interview 
+- [ ] Design and interpret primary research performed as interviews or surveys (individually or in groups). #interview 
 
-Design and interpret case studies. (C) #casestudy 
+- [ ] Design and interpret case studies. #casestudy 
 
-Evaluate and incorporate replicability in empirical study designs. (C) #replication 
+- [ ] Evaluate and incorporate replicability in empirical study designs. #replication 
 
-Identify and evaluate appropriate controls for empirical study designs. (C) #control 
+- [ ] Identify and evaluate appropriate controls for empirical study designs #control 
 
 ### B. Solving problems 
-Use analogies in problem solving appropriately. (C) #analogies 
+- [ ] Use analogies in problem solving appropriately. #analogies 
 
-Identify and apply constraint satisfaction as a way to solve problems. (C) #constraints 
+- [ ] Identify and apply constraint satisfaction as a way to solve problems. (C) #constraints 
 
-Evaluate and apply optimization techniques appropriately. (C)  #optimization 
+- [ ] Evaluate and apply optimization techniques appropriately. #optimization 
 
-Apply heuristics to transition from one subproblem to the next. (H) #problemheuristics 
+- [ ] Apply heuristics to transition from one subproblem to the next #problemheuristics 
 
-Apply “contrarian thinking” to devise new strategies. (H) #contrarian 
+- [ ] Apply “contrarian thinking” to devise new strategies. #contrarian 
 
-Apply algorithmic strategies to solve real-world problems. (C) #algorithms
+- [ ] Apply algorithmic strategies to solve real-world problems.#algorithms
 
-Apply and interpret simulation modeling to test a range of scenarios. (C) #simulation 
+- [ ] Apply and interpret simulation modeling to test a range of scenarios. (C) #simulation 
 
-Identify biases that result from availability, representativeness, and other problem-solving heuristics and learn to correct errors. (C) #heuristicbias
+- [ ] Identify biases that result from availability, representativeness, and other problem-solving heuristics and learn to correct errors. #heuristicbias
 
-Apply effective strategies to teach yourself specific types of material (H) #selflearning
+- [ ] Apply effective strategies to teach yourself specific types of material #selflearning
 
 ### C. Creating products, processes, and services
-Apply iterative design thinking to conceive and refine products or solutions. (H) #designthinking 
+- [ ] Apply iterative design thinking to conceive and refine products or solutions. #designthinking 
 
-Apply heuristics to find creative solutions to problems and to formulate new products and processes. (H) #creativeheuristics
+- [ ] Apply heuristics to find creative solutions to problems and to formulate new products and processes. #creativeheuristics
 
-Given a solution to a particular problem, use reverse engineering to abstract key elements that can be applied to solve other problems. (H) #abstraction
+- [ ] Given a solution to a particular problem, use reverse engineering to abstract key elements that can be applied to solve other problems. #abstraction
 <br><br/>
 
 ## III. Communicating effectively
-A. Using language effectively
-Formulate a well-defined thesis. (H) #thesis 
+### A. Using language effectively
+- [ ] Formulate a well-defined thesis. #thesis 
 
-Effectively organize communications. (H) #organization 
+- [ ] Effectively organize communications. #organization 
 
-Communicate with a clear and precise style. (H) #composition 
+- [ ] Communicate with a clear and precise style. #composition 
 
-Follow established guidelines to present communications professionally. (H) #presentation 
+- [ ] Follow established guidelines to present communications professionally. #presentation 
 
-Understand and use connotations, tone, and style. (H) #connotation
+- [ ] Understand and use connotations, tone, and style. #connotation
 
-Tailor oral and written work for the context and the audience. (H)  #audience
+- [ ] Tailor oral and written work for the context and the audience. #audience
 
-B. Using nonverbal communication effectively
-Interpret facial expressions. (H) #facialexpression 
+### B. Using nonverbal communication effectively
+- [ ] Interpret facial expressions. #facialexpression 
 
-Interpret and use body language. (H) #bodylanguage 
+- [ ] Interpret and use body language. #bodylanguage 
 
-Apply principles of perception and cognition in oral and multimedia presentations and in design. (H) #communicationdesign
+- [ ] Apply principles of perception and cognition in oral and multimedia presentations and in design. #communicationdesign
 <br><br/>
 
 ## IV. Interacting Effectively
 ### A. Negotiating, mediating, and persuading
-Mediate disagreements. (H) #mediate 
+- [ ] Mediate disagreements. (H) #mediate 
 
-Use a structured approach to negotiation to reach desired objectives. (H) #negotiate 
+- [ ] Use a structured approach to negotiation to reach desired objectives. #negotiate 
 
-Prepare multidimensional best alternatives to a negotiated agreement (BATNAs). (H) #batna 
+- [ ] Prepare multidimensional best alternatives to a negotiated agreement (BATNAs). #batna 
 
-Evaluate the effectiveness of counterarguments by considering emotional, logical, personal, and other factors. (H) #counterargument 
+- [ ] Evaluate the effectiveness of counterarguments by considering emotional, logical, personal, and other factors. #counterargument 
 
-Recognize strengths and weaknesses in both your and your opponent’s strategies. (H) #debatestrategy 
+- [ ] Recognize strengths and weaknesses in both your and your opponent’s strategies. #debatestrategy 
 
-Identify and analyze common ground to determine what you can concede, and react accordingly. (H) #commonground
+- [ ] Identify and analyze common ground to determine what you can concede, and react accordingly. #commonground
 
 ### B. Working effectively with others
-- [ ] Apply principles of effective leadership. (H) #leadprinciples 
+- [ ] Apply principles of effective leadership. #leadprinciples 
 
-- [ ] Learn to assign team roles appropriately, which requires being sensitive to the nature of the task and the nature of specific types of roles. (H) #teamroles
+- [ ] Learn to assign team roles appropriately, which requires being sensitive to the nature of the task and the nature of specific types of roles. #teamroles
 
-- [ ] Influence group interactions by exerting different types of power. (H) #powerdynamics 
+- [ ] Influence group interactions by exerting different types of power. #powerdynamics 
 
-- [ ] Identify and analyze how reinforcement and punishment alter behavior. (C) #carrotandstick
+- [ ] Identify and analyze how reinforcement and punishment alter behavior. #carrotandstick
 
-- [ ] Mitigate the role of conformity in group settings. (H) #conformity
+- [ ] Mitigate the role of conformity in group settings. #conformity
 
-- [ ] Recognize and leverage people’s different skills, abilities, traits, attitudes and beliefs. (H) #differences 
+- [ ] Recognize and leverage people’s different skills, abilities, traits, attitudes and beliefs. #differences 
 
-- [ ] Understand the impact of organizational structure on individual performance and collaborative projects. (C) #orgstructure 
+- [ ] Understand the impact of organizational structure on individual performance and collaborative projects. #orgstructure 
 
-- [ ] Listen well and be open-minded. (H) #openmind 
+- [ ] Listen well and be open-minded. #openmind 
 
-- [ ] Monitor yourself to “know what you don’t know.” (C) #metaknowledge 
+- [ ] Monitor yourself to “know what you don’t know.” #metaknowledge 
 
-- [ ] Identify your strengths and weaknesses, exercise humility, and mitigate behaviors and habits that result in overconfidence or impair effective performance. (C) #selfawareness 
+- [ ] Identify your strengths and weaknesses, exercise humility, and mitigate behaviors and habits that result in overconfidence or impair effective performance. #selfawareness 
 
-- [ ] Use emotional intelligence to interact effectively. (H) #emotionaliq
+- [ ] Use emotional intelligence to interact effectively. #emotionaliq
 
 ### C. Resolving ethical problems and having social consciousness
- Identify ethical problems, framing them in a way that will help resolve them. (C) #ethicalframing 
+- [ ] Identify ethical problems, framing them in a way that will help resolve them. #ethicalframing 
 
-Resolve conflicts between ethical principles by using the context to prioritize. (C) #ethicalconflicts 
+- [ ] Resolve conflicts between ethical principles by using the context to prioritize. #ethicalconflicts 
 
-Recognize and work to mitigate unfair practices. (C) #fairness 
+- [ ] Recognize and work to mitigate unfair practices. #fairness 
 
-Follow through on commitments, be proactive, and take responsibility. (H) #responsibility
+- [ ] Follow through on commitments, be proactive, and take responsibility. #responsibility
